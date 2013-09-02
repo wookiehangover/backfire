@@ -1,0 +1,21 @@
+{
+  "name": "backbone-firebase",
+  "version": "0.0.1",
+  "homepage": "https://github.com/firebase/backfire",
+  "description": "Backbone bindings for Firebase",
+  "main": "backbone-firebase.js",
+  "keywords": [
+    "backbone",
+    "firebase",
+    "database"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example"
+  ]
+}
